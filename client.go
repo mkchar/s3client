@@ -10,7 +10,7 @@ import (
 	"path"
 	"time"
 
-	"codeberg.org/mkchar/s3client/utils"
+	"github.com/mkchar/s3client/utils"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/config"
